@@ -3,8 +3,6 @@
 
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://profile-chrystian.netlify.app)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrystian-nascimento-1bb035234/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chan_esn/)
-
 ![01chrystian GitHub stats](https://github-readme-stats.vercel.app/api?username=01chrystian&show_icons=true&theme=radical)
 
 ### Tecnologias que eu uso no meu dia
