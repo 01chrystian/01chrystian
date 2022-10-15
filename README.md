@@ -29,7 +29,7 @@
 </div>
 <br>
 
-### PLataformas de Cursos
+### Cursos
 <div style="display: inline_block">
 <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
 </div>
