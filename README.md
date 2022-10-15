@@ -7,7 +7,7 @@
 
 ![01chrystian GitHub stats](https://github-readme-stats.vercel.app/api?username=01chrystian&show_icons=true&theme=radical)
 
-###                                                       Tecnologias que eu uso no meu dia
+### Tecnologias que eu uso no meu dia
 
 
 <div style="display: inline_block">
@@ -29,4 +29,18 @@
 </div>
 <br>
 
+### PLataformas de Cursos
+<div style="display: inline_block">
+<img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+</div>
+<br>
+
+### Sistemas Operacionais já usados
+<div style="display: inline_block">
+<img align="center" alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+<img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</div>
+<br>
 
