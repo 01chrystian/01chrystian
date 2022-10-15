@@ -29,4 +29,4 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01chrystian&layout=compact)](https://github.com/01chrystian/github-readme-stats)
+
