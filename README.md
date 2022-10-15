@@ -7,7 +7,7 @@
 
 ![01chrystian GitHub stats](https://github-readme-stats.vercel.app/api?username=01chrystian&show_icons=true&theme=radical)
 
-### Tecnologias que eu uso no meu dia
+###                                                       Tecnologias que eu uso no meu dia
 
 
 <div style="display: inline_block">
