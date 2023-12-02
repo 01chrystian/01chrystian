@@ -20,21 +20,19 @@ Desenvolvedor Full Stack com experiência profissional em projetos Freelancer e 
 
 ## 💼 Experiência Profissional
 
-**Júnior - Meta (Consultoria de TI)**
-*(Março, 2023 - O momento)*
+- **Júnior - Meta (Consultoria de TI)**
+  *(Março, 2023 - O momento)*
 
-Na minha posição como Desenvolvedor Júnior na Meta, tenho trabalhado ativamente com tecnologias-chave, incluindo JavaServer Faces (JSF) e Java para o desenvolvimento de aplicações web. Utilizei o framework JSF para criar interfaces dinâmicas e interativas, proporcionando uma experiência de usuário aprimorada.
+    Na minha posição como Desenvolvedor Júnior na Meta, tenho trabalhado ativamente com tecnologias-chave, incluindo JavaServer Faces (JSF) e Java para o desenvolvimento de aplicações web. Utilizei o framework JSF para criar interfaces dinâmicas e interativas, proporcionando uma experiência de usuário aprimorada.
 
-No âmbito de bancos de dados, adquiri experiência prática com o Oracle, envolvendo design de esquemas, consultas SQL avançadas e otimização de desempenho.
+    No âmbito de bancos de dados, adquiri experiência prática com o Oracle, envolvendo design de esquemas, consultas SQL avançadas e otimização de desempenho.
 
-Além disso, participei de projetos que envolvem o framework Angular para o desenvolvimento de interfaces de usuário modernas e reativas. Minha contribuição se concentra na construção de aplicações front-end dinâmicas, aproveitando as capacidades do Angular.
-
-Estou empenhado em aprimorar minhas habilidades e continuar contribuindo para projetos inovadores e de alta qualidade na Meta.
+    Além disso, participei de projetos que envolvem o framework Angular para o desenvolvimento de interfaces de usuário modernas e reativas. Minha contribuição se concentra na construção de aplicações front-end dinâmicas, aproveitando as capacidades do Angular.
           
-**Júnior - UBI ONE (Consultoria de TI)**
+- **Júnior - UBI ONE (Consultoria de TI)**
 *(Setembro, 2021 - Março, 2023)*
 
-Atuação como membro da equipe de desenvolvimento, participando ativamente nos projetos Front-End e Back-End. Utilizei as seguintes tecnologias e frameworks: HTML, CSS e JavaScript; Java, Spring (MVC, JPA, Security), Hibernate, REST API, Microsserviços e GIT. Contribuí para o desenvolvimento e manutenção de sistemas, garantindo alta qualidade e eficiência nas soluções implementadas.
+    Atuação como membro da equipe de desenvolvimento, participando ativamente nos projetos Front-End e Back-End. Utilizei as seguintes tecnologias e frameworks: HTML, CSS e JavaScript; Java, Spring (MVC, JPA, Security), Hibernate, REST API, Microsserviços e GIT. Contribuí para o desenvolvimento e manutenção de sistemas, garantindo alta qualidade e eficiência nas soluções implementadas.
 
 ---
 
