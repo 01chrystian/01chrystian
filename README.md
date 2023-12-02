@@ -1,8 +1,5 @@
 <img width="1000" height="350" src="https://github.com/01chrystian/01chrystian/assets/99342538/d7707e76-9575-4af7-a921-b0fd7b1aeade"/>
 
-
-# Chrystian do ES Nascimento
-
 ## 👨‍💻 Apresentação
 
 Sou um Desenvolvedor Full Stack com experiência tanto em projetos Freelancer quanto como Pessoa Jurídica (PJ) e sob regime CLT. Minha trajetória profissional abrange diversas tecnologias, incluindo habilidades sólidas tanto no desenvolvimento Front-End quanto no Back-End. Estou comprometido em proporcionar soluções inovadoras e eficientes em qualquer contexto de trabalho.
