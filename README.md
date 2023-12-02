@@ -1,4 +1,4 @@
-<img width="100" height="100" src="https://github.com/01chrystian/01chrystian/assets/99342538/ca4bfb71-fea1-40c1-b3ab-3b599adb38cd"/>
+<img width="100" height="100" align="center" src="https://github.com/01chrystian/01chrystian/assets/99342538/ca4bfb71-fea1-40c1-b3ab-3b599adb38cd"/>
 
 # Chrystian do ES Nascimento
 
