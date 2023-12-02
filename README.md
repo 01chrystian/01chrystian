@@ -1,5 +1,3 @@
-<img src="https://github.com/01chrystian/01chrystian/assets/99342538/40880514-90f3-4679-b4f7-9becd3aa1fcf" alt="Perfil" style="width: 350px; height: 350px;"/>
- 
 # Chrystian do ES Nascimento
 
 ## 👨‍💻 Apresentação
