@@ -11,7 +11,7 @@ Olá! 👋 Sou Chrystian, um Desenvolvedor Full Stack com experiência profissio
 ### Já Sei
 
 - **Linguagens de Programação:**
-  - JavaScript (Node.js, React) [![JavaScript](https://skillicons.dev/api/v1/icon/javascript)](https://skillicons.dev/api/v1/icon/javascript)
+  - JavaScript (Node.js, React) [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
   - Python [![Python](https://skillicons.dev/api/v1/icon/python)](https://skillicons.dev/api/v1/icon/python)
   - [outras linguagens...]
 
