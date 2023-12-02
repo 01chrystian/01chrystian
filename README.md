@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Apresentação
 
-Desenvolvedor Full Stack com experiência profissional em projetos Freelancer e como Pessoa Jurídica (PJ). Possuo habilidades variadas em várias tecnologias, abrangendo desenvolvimento Front-End e Back-End.
+Sou um Desenvolvedor Full Stack com experiência tanto em projetos Freelancer quanto como Pessoa Jurídica (PJ) e sob regime CLT. Minha trajetória profissional abrange diversas tecnologias, incluindo habilidades sólidas tanto no desenvolvimento Front-End quanto no Back-End. Estou comprometido em proporcionar soluções inovadoras e eficientes em qualquer contexto de trabalho.
           
 ---
 
