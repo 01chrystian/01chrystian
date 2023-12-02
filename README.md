@@ -1,12 +1,14 @@
-# [Seu Nome]
+# Chrystian do ES Nascimento
 
 ## Apresentação
 
-Olá! 👋 Sou [Seu Nome], [breve descrição sobre você].
+Olá! 👋 Sou Chrystian, um Desenvolvedor Full Stack com experiência profissional como Freelancer e PJ. Atualmente, estou focado em aprimorar minhas habilidades em redes de computadores, criação de aplicativos Android com Kotlin e estudos em Pentest utilizando o Kali Linux.
 
 ---
 
 ## 🚀 Tecnologias e Habilidades
+
+### Já Sei
 
 - **Linguagens de Programação:**
   - JavaScript (Node.js, React) [![JavaScript](https://skillicons.dev/api/v1/icon/javascript)](https://skillicons.dev/api/v1/icon/javascript)
@@ -28,6 +30,17 @@ Olá! 👋 Sou [Seu Nome], [breve descrição sobre você].
   - Git / GitHub [![GitHub](https://skillicons.dev/api/v1/icon/github)](https://skillicons.dev/api/v1/icon/github)
   - Desenvolvimento Web [![Web Development](https://skillicons.dev/api/v1/icon/web-development)](https://skillicons.dev/api/v1/icon/web-development)
   - [outras habilidades...]
+
+### Estou Aprendendo
+
+- **Redes de Computadores:**
+  - Estudo aprofundado em protocolos, roteamento e segurança.
+
+- **Desenvolvimento Android:**
+  - Kotlin para criação de aplicativos modernos.
+
+- **Pentest com Kali Linux:**
+  - Aplicações práticas em segurança cibernética.
 
 ---
 
