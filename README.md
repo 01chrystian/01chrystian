@@ -1,80 +1,68 @@
+<img src="https://github.com/01chrystian/01chrystian/assets/99342538/40880514-90f3-4679-b4f7-9becd3aa1fcf" alt="Perfil" style="width: 350px; height: 350px;"/>
+ 
 # Chrystian do ES Nascimento
 
-## Apresentação
+## 👨‍💻 Apresentação
 
-Olá! 👋 Sou Chrystian, um Desenvolvedor Full Stack com experiência profissional como Freelancer e PJ. Atualmente, estou focado em aprimorar minhas habilidades em redes de computadores, criação de aplicativos Android com Kotlin e estudos em Pentest utilizando o Kali Linux.
+Desenvolvedor Full Stack com experiência profissional em projetos Freelancer e como Pessoa Jurídica (PJ). Possuo habilidades variadas em várias tecnologias, abrangendo desenvolvimento Front-End e Back-End.
+          
+---
+
+## 🚀 Experiência e Competências
+- Durante minha jornada profissional, adquiri habilidades e experiência em diversas tecnologias, destacando-me em:
+  
+| **Linguagem de Programação** | **Banco de Dados** | **Frameworks e Bibliotecas** | **Outras Habilidades** |
+| ------------------------------ | -------------------- | ----------------------------- | ---------------------- |
+| [![linguages](https://skillicons.dev/icons?i=javascript,ts,nodejs,java,kotlin,python,c,cs&theme=dark)](https://skillicons.dev) | [![database](https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgres&theme=dark)](https://skillicons.dev) | [![Libraries](https://skillicons.dev/icons?i=spring,angular,react,electron&theme=dark)](https://skillicons.dev) | [![others](https://skillicons.dev/icons?i=git,docker,maven&theme=dark)](https://skillicons.dev) |
+
+## ✨ IDE`s já usadas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg" width="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" width="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg" width="100" /> 
 
 ---
 
-## 🚀 Tecnologias e Habilidades
+## 💼 Experiência Profissional
+          
+**Júnior - UBI ONE (Consultoria de TI)**
+*(Setembro, 2021 - Março, 2023)*
 
-### Já Sei
-
-- **Linguagens de Programação:**
-  - JavaScript (Node.js, React) [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-  - Python [![Python](https://skillicons.dev/api/v1/icon/python)](https://skillicons.dev/api/v1/icon/python)
-  - [outras linguagens...]
-
-- **Bancos de Dados:**
-  - MySQL [![MySQL](https://skillicons.dev/api/v1/icon/mysql)](https://skillicons.dev/api/v1/icon/mysql)
-  - MongoDB [![MongoDB](https://skillicons.dev/api/v1/icon/mongodb)](https://skillicons.dev/api/v1/icon/mongodb)
-  - [outros bancos...]
-
-- **Frameworks e Bibliotecas:**
-  - Express.js [![Express.js](https://skillicons.dev/api/v1/icon/express)](https://skillicons.dev/api/v1/icon/express)
-  - React.js [![React.js](https://skillicons.dev/api/v1/icon/react)](https://skillicons.dev/api/v1/icon/react)
-  - Flask [![Flask](https://skillicons.dev/api/v1/icon/flask)](https://skillicons.dev/api/v1/icon/flask)
-  - [outras...]
-
-- **Outras Habilidades:**
-  - Git / GitHub [![GitHub](https://skillicons.dev/api/v1/icon/github)](https://skillicons.dev/api/v1/icon/github)
-  - Desenvolvimento Web [![Web Development](https://skillicons.dev/api/v1/icon/web-development)](https://skillicons.dev/api/v1/icon/web-development)
-  - [outras habilidades...]
-
-### Estou Aprendendo
-
-- **Redes de Computadores:**
-  - Estudo aprofundado em protocolos, roteamento e segurança.
-
-- **Desenvolvimento Android:**
-  - Kotlin para criação de aplicativos modernos.
-
-- **Pentest com Kali Linux:**
-  - Aplicações práticas em segurança cibernética.
+Atuação como membro da equipe de desenvolvimento, participando ativamente nos projetos Front-End e Back-End. Utilizei as seguintes tecnologias e frameworks: HTML, CSS e JavaScript; Java, Spring (MVC, JPA, Security), Hibernate, REST API, Microsserviços e GIT. Contribuí para o desenvolvimento e manutenção de sistemas, garantindo alta qualidade e eficiência nas soluções implementadas.
 
 ---
 
-## 🌱 Projetos Destacados
+## 🌱 Aprendendo Atualmente
 
-### [Nome do Projeto 1]
+Estou constantemente aprimorando minhas habilidades e explorando novas tecnologias. Atualmente, meu foco está em redes de computadores, Kotlin para o desenvolvimento de aplicativos Android e aprofundando meus conhecimentos em Pentest com o Kali Linux.
 
-Descrição breve do projeto. Destaque tecnologias usadas e seu papel no projeto.
+---
 
-Link para o projeto: [Projeto 1](link_do_projeto)
+## 🌐 Comunidade GalaxyDevagas
 
-### [Nome do Projeto 2]
+Atualmente, lidero a comunidade GalaxyDevagas, uma comunidade vibrante e colaborativa focada no desenvolvimento de aplicações e oportunidades para freelancers em equipe. Como líder, estou empenhado em criar um ambiente que promova a aprendizagem contínua, a troca de conhecimentos e a colaboração em projetos inovadores.
 
-Descrição breve do projeto. Destaque tecnologias usadas e seu papel no projeto.
+### Objetivos e Atividades
 
-Link para o projeto: [Projeto 2](link_do_projeto)
+- **Desenvolvimento de Aplicações:** A comunidade GalaxyDevagas concentra-se na criação de aplicações inovadoras, explorando diversas tecnologias e frameworks.
+
+- **Freelancers em Equipe:** Facilito a formação de equipes para projetos freelancers, proporcionando uma experiência prática e colaborativa para os membros.
+
+- **Troca de Conhecimentos:** Incentivamos ativamente a troca de conhecimentos, promovendo discussões, workshops e eventos online para impulsionar o crescimento profissional.
 
 ---
 
 ## 📚 Educação
 
-### [Nome da Instituição / Curso]
+### Faculdade Pitágoras
 
-- **Curso/Graduação:** [Nome do Curso]
-- **Período:** [Data de Início] - [Data de Conclusão]
+- **Curso/Graduação:** Bacharelado em Sistemas de Informação
+- **Período:** *(Fevereiro, 2022 - Julho, 2025)*
 
 ---
 
 ## 🔗 Conecte-se Comigo
 
-- **LinkedIn:** [Seu Perfil do LinkedIn](link_do_seu_perfil)
-- **GitHub:** [Seu Perfil do GitHub](link_do_seu_perfil)
-- **Twitter:** [Seu Perfil do Twitter](link_do_seu_perfil)
-
+- **LinkedIn:** (https://www.linkedin.com/in/chrystian-nascimento-1bb035234/)
+- **GitHub:** (https://github.com/01chrystian)
+  
 ---
 
 ## 🤝 Vamos Conectar?
