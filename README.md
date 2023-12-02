@@ -19,6 +19,17 @@ Desenvolvedor Full Stack com experiência profissional em projetos Freelancer e 
 ---
 
 ## 💼 Experiência Profissional
+
+**Júnior - Meta (Consultoria de TI)**
+*(Março, 2023 - O momento)*
+
+Na minha posição como Desenvolvedor Júnior na Meta, tenho trabalhado ativamente com tecnologias-chave, incluindo JavaServer Faces (JSF) e Java para o desenvolvimento de aplicações web. Utilizei o framework JSF para criar interfaces dinâmicas e interativas, proporcionando uma experiência de usuário aprimorada.
+
+No âmbito de bancos de dados, adquiri experiência prática com o Oracle, envolvendo design de esquemas, consultas SQL avançadas e otimização de desempenho.
+
+Além disso, participei de projetos que envolvem o framework Angular para o desenvolvimento de interfaces de usuário modernas e reativas. Minha contribuição se concentra na construção de aplicações front-end dinâmicas, aproveitando as capacidades do Angular.
+
+Estou empenhado em aprimorar minhas habilidades e continuar contribuindo para projetos inovadores e de alta qualidade na Meta.
           
 **Júnior - UBI ONE (Consultoria de TI)**
 *(Setembro, 2021 - Março, 2023)*
