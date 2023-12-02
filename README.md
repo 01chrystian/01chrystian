@@ -30,7 +30,7 @@ Sou um Desenvolvedor Full Stack com experiência tanto em projetos Freelancer qu
     Além disso, participei de projetos que envolvem o framework Angular para o desenvolvimento de interfaces de usuário modernas e reativas. Minha contribuição se concentra na construção de aplicações front-end dinâmicas, aproveitando as capacidades do Angular.
           
 - **Júnior - UBI ONE (Consultoria de TI)**
-*(Setembro, 2021 - Março, 2023)*
+*(Setembro, 2021 - Março, 2023) 1 ano e 7 meses*
 
     Atuação como membro da equipe de desenvolvimento, participando ativamente nos projetos Front-End e Back-End. Utilizei as seguintes tecnologias e frameworks: HTML, CSS e JavaScript; Java, Spring (MVC, JPA, Security), Hibernate, REST API, Microsserviços e GIT. Contribuí para o desenvolvimento e manutenção de sistemas, garantindo alta qualidade e eficiência nas soluções implementadas.
 
