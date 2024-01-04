@@ -57,7 +57,8 @@ Estamos atualmente trabalhando no desenvolvimento de aplicações de automação
 - **Freelancers em Equipe:** Facilito a formação de equipes para projetos freelancers, proporcionando uma experiência prática e colaborativa para os membros.
 
 - **Troca de Conhecimentos:** Incentivamos ativamente a troca de conhecimentos, promovendo discussões, workshops e eventos online para impulsionar o crescimento profissional.
-  
+
+#### Para se juntar à nossa comunidade, clique aqui e participe! https://discord.gg/5jnr2ezvbp
 ---
 
 ## 📚 Educação
