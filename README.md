@@ -21,7 +21,7 @@ Sou um Desenvolvedor Full Stack com experiência tanto em projetos Freelancer qu
 ## 💼 Experiência Profissional
 
 - **Júnior - Meta (Consultoria de TI)**
-  *(Março, 2023 - O momento)*
+  *(Março, 2023 - Março, 2024)*
 
     Na minha posição como Desenvolvedor Júnior na Meta, tenho trabalhado ativamente com tecnologias-chave, incluindo JavaServer Faces (JSF) e Java para o desenvolvimento de aplicações web. Utilizei o framework JSF para criar interfaces dinâmicas e interativas, proporcionando uma experiência de usuário aprimorada.
 
