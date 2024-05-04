@@ -20,6 +20,13 @@ Sou um Desenvolvedor Full Stack com experiência tanto em projetos Freelancer qu
 
 ## 💼 Experiência Profissional
 
+- **Pleno - Softtrade**
+  *(Março, 2024 - Presente)*
+
+    Como Desenvolvedor Pleno na Softtrade, estou imerso em um ambiente dinâmico e desafiador, onde minha expertise é direcionada para a automação de processos essenciais. Minha principal área de atuação envolve a criação e aprimoramento de soluções utilizando SQL Server, Node.js e C#. Através do uso do driver Selenium em conjunto com C#, estou constantemente aprimorando e otimizando a automação de sistemas, garantindo eficiência e precisão em cada execução.
+
+    Particularmente, destaco meu papel na implementação de um projeto MVC utilizando Node.js, onde desenvolvo interfaces para gerenciar o feedback de cada execução automatizada. Essas telas proporcionam uma visão clara e detalhada do desempenho do sistema, permitindo uma rápida identificação de eventuais falhas e ações corretivas necessárias.
+
 - **Júnior - Meta (Consultoria de TI)**
   *(Março, 2023 - Março, 2024)*
 
