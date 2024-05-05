@@ -28,7 +28,7 @@ Sou um Desenvolvedor Full Stack com experiência tanto em projetos Freelancer qu
     Particularmente, destaco meu papel na implementação de um projeto MVC utilizando Node.js, onde desenvolvo interfaces para gerenciar o feedback de cada execução automatizada. Essas telas proporcionam uma visão clara e detalhada do desempenho do sistema, permitindo uma rápida identificação de eventuais falhas e ações corretivas necessárias.
 
 - **Júnior - Meta (Consultoria de TI)**
-  *(Março, 2023 - Março, 2024)*
+  *(Março, 2023 - Março, 2024) 1 ano 1 mês*
 
     Na minha posição como Desenvolvedor Júnior na Meta, tenho trabalhado ativamente com tecnologias-chave, incluindo JavaServer Faces (JSF) e Java para o desenvolvimento de aplicações web. Utilizei o framework JSF para criar interfaces dinâmicas e interativas, proporcionando uma experiência de usuário aprimorada.
 
