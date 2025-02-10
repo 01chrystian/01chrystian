@@ -46,6 +46,7 @@ Sou um Desenvolvedor Full Stack com experiência tanto em projetos Freelancer qu
 ## 🌱 Aprendendo Atualmente
 
 Estou sempre aprimorando minhas habilidades e explorando novas tecnologias. No momento, meu foco está em aprimorar minha conversação em inglês, aprofundar meus conhecimentos em Java e NestJS para arquitetura (Clean e Hexagonal) e dominar Microservices com RabbitMQ. Além disso, estou explorando Docker para gerenciar Selenium Grid e expandir minha compreensão sobre automação escalável.
+
 ---
 
 ## 🌐 Comunidade GalaxyDevegas
