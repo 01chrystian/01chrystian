@@ -45,8 +45,7 @@ Sou um Desenvolvedor Full Stack com experiência tanto em projetos Freelancer qu
 
 ## 🌱 Aprendendo Atualmente
 
-Estou constantemente aprimorando minhas habilidades e explorando novas tecnologias. Atualmente, meu foco está em redes de computadores, Kotlin para o desenvolvimento de aplicativos Android e aprofundando meus conhecimentos em Pentest com o Kali Linux.
-
+Estou sempre aprimorando minhas habilidades e explorando novas tecnologias. No momento, meu foco está em aprimorar minha conversação em inglês, aprofundar meus conhecimentos em Java e NestJS para arquitetura (Clean e Hexagonal) e dominar Microservices com RabbitMQ. Além disso, estou explorando Docker para gerenciar Selenium Grid e expandir minha compreensão sobre automação escalável.
 ---
 
 ## 🌐 Comunidade GalaxyDevegas
@@ -64,8 +63,6 @@ Estamos atualmente trabalhando no desenvolvimento de aplicações de automação
 - **Freelancers em Equipe:** Facilito a formação de equipes para projetos freelancers, proporcionando uma experiência prática e colaborativa para os membros.
 
 - **Troca de Conhecimentos:** Incentivamos ativamente a troca de conhecimentos, promovendo discussões, workshops e eventos online para impulsionar o crescimento profissional.
-
-#### Para se juntar à nossa comunidade, clique aqui e participe! https://discord.gg/5jnr2ezvbp
 ---
 
 ## 📚 Educação
