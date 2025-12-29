@@ -1,6 +1,6 @@
 ## 👨‍💻 Apresentação
 
-Sou **Senior Software Engineer** com atuação em **arquitetura de sistemas, desenvolvimento Full Stack e liderança técnica**, com experiência em ambientes **CLT, PJ e projetos próprios**.
+Sou **Pleno Software Engineer** com atuação em **arquitetura de sistemas, desenvolvimento Full Stack e liderança técnica**, com experiência em ambientes **CLT, PJ e projetos próprios**.
 
 Ao longo da minha trajetória, atuei em **consultorias e projetos de alta complexidade**, participando diretamente da **construção de APIs escaláveis**, **automação de processos críticos**, **integrações entre sistemas** e **decisões arquiteturais**.
 
@@ -19,12 +19,8 @@ Atuo com foco em **engenharia de software de alto nível**, aplicando boas prát
 ---
 
 ## 🧠 IDEs & Ambientes de Desenvolvimento
+<img width="100" height="100" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-color-tal-revivo.png" alt="external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-color-tal-revivo"/> <img width="100" height="100" src="https://img.icons8.com/fluency/100/android-studio--v3.png" alt="android-studio--v3"/> <img width="100" height="100" src="https://img.icons8.com/color/100/intellij-idea.png" alt="intellij-idea"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg" width="100" /> 
 
-<img width="90" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-color-tal-revivo.png"/>
-<img width="90" src="https://img.icons8.com/fluency/100/android-studio--v3.png"/>
-<img width="90" src="https://img.icons8.com/color/100/intellij-idea.png"/>
-<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
-<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg"/>
 
 ---
 
