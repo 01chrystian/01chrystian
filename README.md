@@ -49,23 +49,6 @@ Estou sempre aprimorando minhas habilidades e explorando novas tecnologias. No m
 
 ---
 
-## 🌐 Comunidade GalaxyDevegas
-
-Atualmente, lidero a comunidade GalaxyDevegas, uma comunidade vibrante e colaborativa focada no desenvolvimento de aplicações e oportunidades para freelancers em equipe. Como líder, estou empenhado em criar um ambiente que promova a aprendizagem contínua, a troca de conhecimentos e a colaboração em projetos inovadores.
-
-### Projetos em Destaque
-- Automação para WhatsApp e Telegram:
-Estamos atualmente trabalhando no desenvolvimento de aplicações de automação para ambas as plataformas, visando facilitar e otimizar as interações nesses canais de comunicação.
-
-### Objetivos e Atividades
-
-- **Desenvolvimento de Aplicações:** A comunidade GalaxyDevegas concentra-se na criação de aplicações inovadoras, explorando diversas tecnologias e frameworks.
-
-- **Freelancers em Equipe:** Facilito a formação de equipes para projetos freelancers, proporcionando uma experiência prática e colaborativa para os membros.
-
-- **Troca de Conhecimentos:** Incentivamos ativamente a troca de conhecimentos, promovendo discussões, workshops e eventos online para impulsionar o crescimento profissional.
----
-
 ## 📚 Educação
 
 ### Faculdade Pitágoras
