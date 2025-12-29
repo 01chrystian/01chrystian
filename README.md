@@ -1,74 +1,98 @@
-<img width="1000" height="350" src="https://github.com/01chrystian/01chrystian/assets/99342538/d7707e76-9575-4af7-a921-b0fd7b1aeade"/>
-
 ## 👨‍💻 Apresentação
 
-Sou um Desenvolvedor Full Stack com experiência tanto em projetos Freelancer quanto como Pessoa Jurídica (PJ) e sob regime CLT. Minha trajetória profissional abrange diversas tecnologias, incluindo habilidades sólidas tanto no desenvolvimento Front-End quanto no Back-End. Estou comprometido em proporcionar soluções inovadoras e eficientes em qualquer contexto de trabalho.
-          
+Sou **Senior Software Engineer** com atuação em **arquitetura de sistemas, desenvolvimento Full Stack e liderança técnica**, com experiência em ambientes **CLT, PJ e projetos próprios**.
+
+Ao longo da minha trajetória, atuei em **consultorias e projetos de alta complexidade**, participando diretamente da **construção de APIs escaláveis**, **automação de processos críticos**, **integrações entre sistemas** e **decisões arquiteturais**.
+
+Atualmente, também sou **fundador da Galaxy Devegas**, onde atuo como responsável pela **engenharia de software, infraestrutura, cloud, automação e estratégia técnica**, unindo visão de negócio e excelência técnica para entregar soluções robustas e sustentáveis.
+
 ---
 
-## 🚀 Experiência e Competências
-- Durante minha jornada profissional, adquiri habilidades e experiência em diversas tecnologias, destacando-me em:
-  
-| **Linguagem de Programação** | **Banco de Dados** | **Frameworks e Bibliotecas** | **Outras Habilidades** |
-| ------------------------------ | -------------------- | ----------------------------- | ---------------------- |
-| [![linguages](https://skillicons.dev/icons?i=javascript,ts,java,kotlin,python,c,cs&theme=dark)](https://skillicons.dev) | [![database](https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgres&theme=dark)](https://skillicons.dev) | [![Libraries](https://skillicons.dev/icons?i=nodejs,spring,angular,react,electron&theme=dark)](https://skillicons.dev) | [![others](https://skillicons.dev/icons?i=git,docker,maven&theme=dark)](https://skillicons.dev) |
+## 🚀 Experiência Técnica & Competências
 
-## ✨ IDE`s já usadas
-<img width="100" height="100" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-color-tal-revivo.png" alt="external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-color-tal-revivo"/> <img width="100" height="100" src="https://img.icons8.com/fluency/100/android-studio--v3.png" alt="android-studio--v3"/> <img width="100" height="100" src="https://img.icons8.com/color/100/intellij-idea.png" alt="intellij-idea"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg" width="100" /> 
+Atuo com foco em **engenharia de software de alto nível**, aplicando boas práticas, padrões arquiteturais e soluções escaláveis.
+
+| **Linguagens** | **Bancos de Dados** | **Frameworks & Plataformas** | **Ferramentas & DevOps** |
+|----------------|---------------------|------------------------------|--------------------------|
+| ![langs](https://skillicons.dev/icons?i=javascript,ts,java,kotlin,python,c,cs&theme=dark) | ![db](https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgres&theme=dark) | ![fw](https://skillicons.dev/icons?i=nodejs,spring,angular,react,electron&theme=dark) | ![tools](https://skillicons.dev/icons?i=git,docker,maven&theme=dark) |
+
+---
+
+## 🧠 IDEs & Ambientes de Desenvolvimento
+
+<img width="90" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-color-tal-revivo.png"/>
+<img width="90" src="https://img.icons8.com/fluency/100/android-studio--v3.png"/>
+<img width="90" src="https://img.icons8.com/color/100/intellij-idea.png"/>
+<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg"/>
 
 ---
 
 ## 💼 Experiência Profissional
 
-- **Pleno - Softtrade**
-  *(Março, 2024 - Novembro, 2024)*
+### **Desenvolvedor Pleno — Softtrade**
+*(Mar/2024 – Nov/2024)*
 
-    Como Desenvolvedor Pleno na Softtrade, estou imerso em um ambiente dinâmico e desafiador, onde minha expertise é direcionada para a automação de processos essenciais. Minha principal área de atuação envolve a criação e aprimoramento de soluções utilizando SQL Server, Node.js e C#. Através do uso do driver Selenium em conjunto com C#, estou constantemente aprimorando e otimizando a automação de sistemas, garantindo eficiência e precisão em cada execução.
+Atuação em **automação de processos críticos**, desenvolvimento e manutenção de soluções utilizando **Node.js, C#, SQL Server e Selenium**.
 
-    Particularmente, destaco meu papel na implementação de um projeto MVC utilizando Node.js, onde desenvolvo interfaces para gerenciar o feedback de cada execução automatizada. Essas telas proporcionam uma visão clara e detalhada do desempenho do sistema, permitindo uma rápida identificação de eventuais falhas e ações corretivas necessárias.
-
-- **Júnior - Meta (Consultoria de TI)**
-  *(Março, 2023 - Março, 2024) 1 ano 1 mês*
-
-    Na minha posição como Desenvolvedor Júnior na Meta, tenho trabalhado ativamente com tecnologias-chave, incluindo JavaServer Faces (JSF) e Java para o desenvolvimento de aplicações web. Utilizei o framework JSF para criar interfaces dinâmicas e interativas, proporcionando uma experiência de usuário aprimorada.
-
-    No âmbito de bancos de dados, adquiri experiência prática com o Oracle, envolvendo design de esquemas, consultas SQL avançadas e otimização de desempenho.
-
-    Além disso, participei de projetos que envolvem o framework Angular para o desenvolvimento de interfaces de usuário modernas e reativas. Minha contribuição se concentra na construção de aplicações front-end dinâmicas, aproveitando as capacidades do Angular.
-          
-- **Júnior - UBI ONE (Consultoria de TI)**
-*(Setembro, 2021 - Março, 2023) 1 ano e 7 meses*
-
-    Atuação como membro da equipe de desenvolvimento, participando ativamente nos projetos Front-End e Back-End. Utilizei as seguintes tecnologias e frameworks: HTML, CSS e JavaScript; Java, Spring (MVC, JPA, Security), Hibernate, REST API, Microsserviços e GIT. Contribuí para o desenvolvimento e manutenção de sistemas, garantindo alta qualidade e eficiência nas soluções implementadas.
+- Desenvolvimento de sistemas MVC para **monitoramento e feedback de execuções automatizadas**
+- Otimização de rotinas de automação visando **performance, confiabilidade e rastreabilidade**
+- Atuação próxima às regras de negócio e melhoria contínua dos fluxos
 
 ---
 
-## 🌱 Aprendendo Atualmente
+### **Desenvolvedor Java — Meta (Consultoria de TI)**
+*(Mar/2023 – Mar/2024)*
 
-Estou sempre aprimorando minhas habilidades e explorando novas tecnologias. No momento, meu foco está em aprimorar minha conversação em inglês, aprofundar meus conhecimentos em Java e NestJS para arquitetura (Clean e Hexagonal) e dominar Microservices com RabbitMQ. Além disso, estou explorando Docker para gerenciar Selenium Grid e expandir minha compreensão sobre automação escalável.
+Participação em projetos corporativos utilizando **Java, JSF, Angular e Oracle**.
+
+- Desenvolvimento de aplicações web com foco em **manutenibilidade e performance**
+- Modelagem e otimização de consultas SQL
+- Atuação integrada entre front-end e back-end em ambientes corporativos
 
 ---
 
-## 📚 Educação
+### **Desenvolvedor Júnior — UBI ONE**
+*(Set/2021 – Mar/2023)*
 
-### Faculdade Pitágoras
+Atuação Full Stack em projetos web e APIs REST.
 
-- **Curso/Graduação:** Bacharelado em Sistemas de Informação
-- **Período:** *(Fevereiro, 2022 - Julho, 2025)*
+- Java + Spring (MVC, JPA, Security)
+- Microsserviços, REST APIs e Hibernate
+- Desenvolvimento Front-End com HTML, CSS e JavaScript
+- Versionamento e colaboração com Git
+
+---
+
+## 🧩 Atuação Atual & Interesses Técnicos
+
+Atualmente foco meus estudos e projetos em:
+
+- **Arquitetura de Software (Clean Architecture & Hexagonal)**
+- **Microsserviços e mensageria (RabbitMQ)**
+- **Containers e automação com Docker**
+- **Infraestrutura, escalabilidade e monitoramento**
+- **Aprimoramento contínuo do inglês técnico**
+
+---
+
+## 📚 Formação Acadêmica
+
+### **Faculdade Pitágoras**
+- **Bacharelado em Sistemas de Informação**
+- *(2022 – 2025)*
 
 ---
 
 ## 🔗 Conecte-se Comigo
 
-- **LinkedIn:** (https://www.linkedin.com/in/chrystian-nascimento-1bb035234/)
-- **GitHub:** (https://github.com/01chrystian)
-  
----
-
-## 🤝 Vamos Conectar?
-
-Fique à vontade para explorar meus projetos e entrar em contato para discutir colaborações, ideias ou apenas para trocar experiências!
+- 💼 LinkedIn: https://www.linkedin.com/in/chrystian-nascimento-1bb035234  
+- 💻 GitHub: https://github.com/01chrystian  
 
 ---
 
-**Obrigado por visitar meu perfil! 😊**
+## 🤝 Vamos Construir Algo Sólido?
+
+Estou aberto a **projetos estratégicos, desafios técnicos de alto impacto e colaborações** que envolvam **arquitetura, engenharia de software e soluções escaláveis**.
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato.
